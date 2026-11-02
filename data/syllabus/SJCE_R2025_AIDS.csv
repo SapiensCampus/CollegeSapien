@@ -1,0 +1,9 @@
+college,college_code,course,course_code,regulation,semester,subject_code,subject_name,credits,category,elective_type,record_type
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,AD25301,ESSENTIALS OF DATA SCIENCE,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25301,DATA STRUCTURES,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25302,COMPUTER ARCHITECTURE,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25308,OPERATING SYSTEM (LAB INTEGRATED),,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,IT25301,DATABASE DESIGN AND MANAGEMENT,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,MA25C06,MATHEMATICS OF DISCRETE STRUCTURES,,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,IT25311,DATABASE DESIGN AND MANAGEMENT LABORATORY,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25311,DATA STRUCTURES LABORATORY,,PC,,core

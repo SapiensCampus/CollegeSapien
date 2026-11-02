@@ -1,0 +1,10 @@
+college,college_code,course,course_code,regulation,semester,subject_code,subject_name,credits,category,elective_type,record_type
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,MA25C01,MATRICES AND CALCULUS,4,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,PH25C01,APPLIED PHYSICS,3,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,CY25C01,APPLIED CHEMISTRY,3,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,ME25C01,ENGINEERING DRAWING,4,ES,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,CS25C01,PROBLEM SOLVING AND PROGRAMMING IN C,3,ES,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,GE25C01,HERITAGE OF TAMILS,1,HS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,EN25C01,PROFESSIONAL ENGLISH I (LAB INTEGRATED),3,HS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,PH25L01,PHYSICS AND CHEMISTRY LABORATORY,1.5,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,1,CS25L01,C PROGRAMMING LABORATORY,1.5,PC,,core 

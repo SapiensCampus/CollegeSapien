@@ -1,0 +1,19 @@
+college,college_code,course,course_code,regulation,semester,subject_code,subject_name,credits,category,elective_type,record_type
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,AD25301,ESSENTIALS OF DATA SCIENCE,3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25301,DATA STRUCTURES,3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25302,COMPUTER ARCHITECTURE,3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25308,OPERATING SYSTEMS (LAB INTEGRATED),3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,IT25301,DATABASE DESIGN AND MANAGEMENT,3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,MA25C06,MATHEMATICS OF DISCRETE STRUCTURES,4,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,IT25311,DATABASE DESIGN AND MANAGEMENT LABORATORY,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,3,CS25311,DATA STRUCTURES LABORATORY,,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,PH25C02,Semiconductors and Nanoelectronic Devices,3,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,CS25202,Digital Principles and Logic Design,3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,GE25C02,Tamils and Technology,1,HS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,CS25212,Digital Design Laboratory,1.5,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,SD25C06,Aptitude Course - II,0,MC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,SD25C07,Communication Skills Enhancement,0,HS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,AL25201,Foundations of Python,3,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,AL25211,Python Programming Laboratory,1.5,PC,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,MA25C04,Linear Algebra,4,BS,,core
+St. Joseph's College of Engineering,3123,AI&DS,243,R2025,2,EN25C08,Professional English II (Lab Integrated),3,HS,,core
